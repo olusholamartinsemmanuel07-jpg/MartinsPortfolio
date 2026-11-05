@@ -860,16 +860,6 @@ footer p {
     .hero-content {
         order: 1;
     }
-
-   @media (max-width: 768px) {
-    .nav-btn {
-        display: inline-flex;
-        align-items: center;
-        justify-content: center;
-        visibility: visible;
-        opacity: 1;
-        margin-top: 20px;
-    }
 }
 
     .hero-image {
