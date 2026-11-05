@@ -861,6 +861,17 @@ footer p {
         order: 1;
     }
 
+   @media (max-width: 768px) {
+    .hero-content .btn {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        visibility: visible;
+        opacity: 1;
+        margin-top: 20px;
+    }
+}
+
     .hero-image {
         order: 0;
         width: 270px;
