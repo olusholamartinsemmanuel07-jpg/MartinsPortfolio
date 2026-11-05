@@ -862,7 +862,7 @@ footer p {
     }
 
    @media (max-width: 768px) {
-    .hero-content .btn {
+    .nav-btn {
         display: inline-flex;
         align-items: center;
         justify-content: center;
