@@ -11,12 +11,12 @@
 }
 
 :root {
-    --background: #070b18;
-    --card: #10182e;
-    --primary: #792dff;
-    --secondary: #078cff;
+    --background: #101817;
+    --card: #192522;
+    --primary: #10b981;
+    --secondary: #d6a84b;
     --text: #ffffff;
-    --paragraph: #a8b0c5;
+    --paragraph: #a6b8af;
     --border: rgba(255, 255, 255, 0.08);
 }
 
