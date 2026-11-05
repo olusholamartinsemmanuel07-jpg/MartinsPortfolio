@@ -919,6 +919,31 @@ footer p {
 
 }
 
+@media (max-width: 768px) {
+    .talk-btn {
+        display: none;
+    }
+
+    .social-links {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 18px;
+        margin-top: 25px;
+        flex-wrap: wrap;
+    }
+
+    .social-links a {
+        width: 60px;
+        height: 60px;
+        border-radius: 50%;
+    }
+
+    .social-links i {
+        font-size: 26px;
+    }
+}
+
 
 /* =========================
    SMALL PHONES
